@@ -1,0 +1,3 @@
+[submodule "battletech-roller"]
+	path = battletech-roller
+	url = git@github.com:mangofeet/battletech-roller
