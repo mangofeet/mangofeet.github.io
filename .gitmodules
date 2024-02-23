@@ -1,3 +1,6 @@
 [submodule "battletech-roller"]
 	path = battletech-roller
 	url = git@github.com:mangofeet/battletech-roller
+[submodule "altered-util"]
+	path = altered
+	url = https://github.com/mangofeet/altered-util
